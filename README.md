@@ -1,4 +1,4 @@
-# Project Bolt
+# Project Trend 2 Post
 
 Project Bolt is a TypeScript + React application built with Vite, Tailwind CSS, and Supabase.  
 It provides tools for content generation, scheduling, and Instagram integration.
